@@ -1,0 +1,40 @@
+@model IEnumerable<MidtermVieth.Models.LoginViewModel>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>Accounts</title>
+</head>
+<body>
+    <div class="panel-body">
+        <h2>Here is the list of Accounts</h2>
+        <table class="table table-sm table-striped table-bordered">
+            <thead>
+                <tr>
+
+                    <th>Email</th>
+                    <th>Password</th>
+                    <th>StayLoggedIn</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (MidtermVieth.Models.LoginViewModel r in Model) {
+                    <tr>
+
+                        <td>@r.Email</td>
+                        <td>@r.Password</td>
+                        <td>@r.StayLoggedIn</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
