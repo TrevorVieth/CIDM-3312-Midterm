@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CIDM3312\\MidtermVieth\\MidtermVieth\\MidtermVieth.csproj",
+      "projectUniqueName": "C:\\CIDM3312\\MidtermVieth\\MidtermVieth\\MidtermVieth.csproj",
       "projectName": "MidtermVieth",
-      "projectPath": "c:\\CIDM3312\\MidtermVieth\\MidtermVieth\\MidtermVieth.csproj",
+      "projectPath": "C:\\CIDM3312\\MidtermVieth\\MidtermVieth\\MidtermVieth.csproj",
       "packagesPath": "C:\\Users\\tv1008718\\.nuget\\packages\\",
-      "outputPath": "c:\\CIDM3312\\MidtermVieth\\MidtermVieth\\obj\\",
+      "outputPath": "C:\\CIDM3312\\MidtermVieth\\MidtermVieth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ C:\CIDM-3312-01\MidtermVieth\bin\Debug\netcoreapp2.0\MidtermVieth.dll
 C:\CIDM-3312-01\MidtermVieth\bin\Debug\netcoreapp2.0\MidtermVieth.pdb
 C:\CIDM-3312-01\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.dll
 C:\CIDM-3312-01\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.pdb
+C:\CIDM3312\MidtermVieth\MidtermVieth\bin\Debug\netcoreapp2.0\MidtermVieth.deps.json
+C:\CIDM3312\MidtermVieth\MidtermVieth\bin\Debug\netcoreapp2.0\MidtermVieth.runtimeconfig.json
+C:\CIDM3312\MidtermVieth\MidtermVieth\bin\Debug\netcoreapp2.0\MidtermVieth.runtimeconfig.dev.json
+C:\CIDM3312\MidtermVieth\MidtermVieth\bin\Debug\netcoreapp2.0\MidtermVieth.dll
+C:\CIDM3312\MidtermVieth\MidtermVieth\bin\Debug\netcoreapp2.0\MidtermVieth.pdb
+C:\CIDM3312\MidtermVieth\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.csprojResolveAssemblyReference.cache
+C:\CIDM3312\MidtermVieth\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.csproj.CoreCompileInputs.cache
+C:\CIDM3312\MidtermVieth\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.AssemblyInfoInputs.cache
+C:\CIDM3312\MidtermVieth\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.AssemblyInfo.cs
+C:\CIDM3312\MidtermVieth\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.dll
+C:\CIDM3312\MidtermVieth\MidtermVieth\obj\Debug\netcoreapp2.0\MidtermVieth.pdb
