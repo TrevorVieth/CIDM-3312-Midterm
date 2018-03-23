@@ -1,0 +1,30 @@
+@model MidtermVieth.Models.AccountCreationViewModel
+
+@{
+     Layout = "_NewLayout";
+        // Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Account Created</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="text-center">
+    <p>
+        <h1>Account creation successful for:</h1>
+        <h4>Username: @Model.Email</h4>
+        
+        @if (Model.StayLoggedIn == true) {
+            @:Be sure to log out before you leave, you chose to stay logged in otherwise
+        } else {
+            @:You will be automaticaly logged out upon departure
+        }
+    </p>
+    Click <a class="nav-link" href="../../Login/ListAccounts">here</a>
+    to see account list.
+</body>
+</html>
